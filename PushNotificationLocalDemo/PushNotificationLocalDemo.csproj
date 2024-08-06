@@ -68,4 +68,9 @@
 		<PackageReference Include="Plugin.LocalNotification" Version="11.1.3" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="View\" />
+	  <Folder Include="ViewModel\" />
+	</ItemGroup>
+
 </Project>
